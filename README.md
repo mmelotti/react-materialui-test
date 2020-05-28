@@ -1,3 +1,7 @@
+This is a simple project to use Material UI and React.
+
+TODO: Add Atomic Design and Storybook
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
